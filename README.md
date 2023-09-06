@@ -1,5 +1,5 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Ophélie</h1>
+<h1 align="center">Hi 👋, I'm Ophélie OLIELA</h1>
 <h3 align="center">A passionate frontend developer from Congo</h3>
 
 <img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/black-woman-sitting-with-laptop-freelance-remote-working-home-office-concept_254685-1396.jpg?w=996">
