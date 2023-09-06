@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ophélie</h1>
 <h3 align="center">A passionate frontend developer from Congo</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/black-woman-sitting-with-laptop-freelance-remote-working-home-office-concept_254685-1396.jpg?w=996">
+<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/black-woman-sitting-with-laptop-freelance-remote-working-home-office-concept_254685-1396.jpg?w=996">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliela&label=Profile%20views&color=0e75b6&style=flat" alt="oliela" /> </p>
 
