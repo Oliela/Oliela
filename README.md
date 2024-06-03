@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ophélie</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/black-woman-sitting-with-laptop-freelance-remote-working-home-office-concept_254685-1396.jpg?w=996">
+<img align="right" alt="Coding" width="500" src="https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **coffeeTek**
+- 🔭 I’m currently working on **CertyUp**
 
-- 🌱 I’m currently learning **ionic**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular**
 
