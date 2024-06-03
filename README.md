@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/black-woman-sitting-with-laptop-freelance-remote-working-home-office-concept_254685-1396.jpg?w=996">
 
-<p align="left"> <img src="https://images.pexels.com/photos/247791/pexels-photo-247791.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="oliela" /> </p>
+<p align="left"> </p>
 
 - 🔭 I’m currently working on **coffeeTek**
 
