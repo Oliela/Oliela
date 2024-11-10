@@ -6,7 +6,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **CertyUp**
+- 🔭 I’m currently working on **Mayanna**
 
 - 🌱 I’m currently learning **React**
 
